@@ -42,3 +42,37 @@ h1 {
 .beige {
   background-color: #efd9ca;
 }
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.source-code-pro {
+  font-family: "Source Code Pro", monospace;
+}
+
+.nunito-sans {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
